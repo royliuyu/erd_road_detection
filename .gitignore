@@ -1,0 +1,13 @@
+*.pt
+old*
+temp*
+*.ods
+.idea/
+.ipynb_checkpoints/
+src/.ipynb_checkpoints
+script/.ipynb_checkpoints
+src/__pycache__/
+script/__pycache__/
+models/__pycache__/
+models/.ipynb_checkpoints
+paper/

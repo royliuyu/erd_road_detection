@@ -1,0 +1,1 @@
+When measure 100% empty road:  select the first item with 1 labeled, and average.

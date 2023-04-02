@@ -1,0 +1,7 @@
+Config,Empty road frame %,cpu,gpu
+Yolov5,0%,27.1,56.5
+Yolov5,100%,27.1,56.5
+SSD,0%,9.4,23.8
+SSD,100%,9.4,23.8
+efficientDet,0%,6.6,9.5
+efficientDet,100%,6.6,9.5
